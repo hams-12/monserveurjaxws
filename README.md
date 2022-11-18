@@ -9,3 +9,5 @@
 <img src="captures/capt2.png">
 <h4>Test de la méthode Convert</h4>
 <img src="captures/capt3.png">
+<h1>Test via un client Java</h1>
+<img src="captures/capt001.png">
