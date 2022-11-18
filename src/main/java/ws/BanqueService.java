@@ -7,7 +7,7 @@ import jakarta.jws.WebService;
 import java.util.Date;
 import java.util.List;
 
-@WebService(name = "BanqueWS")
+@WebService(serviceName = "BanqueWS")
 public class BanqueService {
 
     @WebMethod
